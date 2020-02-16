@@ -1,3 +1,3 @@
 # godot-tutorial
 
-The art, music and font is from the tutorial resources.
+The art, music and font are from the tutorial resources.
